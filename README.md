@@ -42,5 +42,5 @@ A feladatok elkészítésének végső határideje: **2022.02.28., kedd, éjfél
 
 Beadott megoldásnak azt tekintjük, amit a fenti időben a repodban és a netlify-os oldaladon találunk.
 ## További fordulók
-- [WorldSkills Lyon 2024 Web Technology nemzeti válogató - 2. forduló](https://github.com/skillsithu/ws2024-s17-hu-r2)
-- [WorldSkills Lyon 2024 Web Technology nemzeti válogató - 3. forduló](https://github.com/skillsithu/ws2024-s17-hu-r3)
+- [WorldSkills Lyon 2024 Web Technology nemzeti válogató - 2. forduló](https://github.com/skillsit-hu/ws2024-s17-hu-r2)
+- [WorldSkills Lyon 2024 Web Technology nemzeti válogató - 3. forduló](https://github.com/skillsit-hu/ws2024-s17-hu-r3)
